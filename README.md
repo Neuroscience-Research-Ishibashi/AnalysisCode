@@ -1,4 +1,4 @@
-# AnalysisCode
+# NeuroAnalysisCode
 Various tools for neuroimaging analysis.
 
 **Artur_fMRI_QC_Script**
